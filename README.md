@@ -16,4 +16,4 @@ Basic HTML and CSS
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+LICENSE
