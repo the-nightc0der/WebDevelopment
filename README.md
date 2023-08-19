@@ -16,4 +16,3 @@ Basic HTML and CSS
 
 ## License
 
-LICENSE
